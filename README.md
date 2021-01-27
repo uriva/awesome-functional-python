@@ -103,6 +103,7 @@
 - [pfun](https://github.com/suned/pfun) ★69 - "Pure functional programming in python".
 - [fnc](https://github.com/dgilland/fnc) ★75 - "Functional programming in Python with generators and other utilities".
 - [unpythonic](https://github.com/Technologicat/unpythonic) ★26 - "Supercharge your Python with parts of Lisp and Haskell."
+- [gamla][https://github.com/hyroai/gamla] ★9 - "Async functional programming in python".
 
 #### Immutable / persistent data structures
 
